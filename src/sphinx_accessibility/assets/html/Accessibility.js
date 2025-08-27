@@ -56,7 +56,7 @@ document.addEventListener("DOMContentLoaded", () => {
                             <span class="btn__icon-container">
                                 ${FontSVG}
                             </span>
-                            <span id="fontText" class="btn__text-container">Enable <span style="font-family: OpenDyslexic">OpenDyslexic</span></span>
+                            <span id="fontText" class="btn__text-container">${enableFont}</span>
                         </a></li>
                         <li><a href="#" class="btn btn-sm dropdown-item" data-action="toggleContrast">
                             <span class="btn__icon-container">
@@ -101,7 +101,7 @@ function toggleFont() {
     if (isDyslexicEnabled) {
         fontText.innerHTML = `Disable <span style="font-family: OpenDyslexic">OpenDyslexic</span>`;
     } else {
-        fontText.innerHTML = `Enable <span style="font-family: OpenDyslexic">OpenDyslexic</span>`;
+        fontText.innerHTML = enableFont;
     }
 }
 
@@ -139,7 +139,7 @@ function loadFontPreference() {
         body.classList.remove("dyslexic");
         // Update button text if it exists
         if (fontText) {
-            fontText.innerHTML = `Enable <span style="font-family: OpenDyslexic">OpenDyslexic</span>`;
+            fontText.innerHTML = enableFont;
         }
     }
 }
