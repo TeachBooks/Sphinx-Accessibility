@@ -48,3 +48,14 @@ This feature allows users to switch to the dyslexic-friendly font [OpenDyslexic]
 ### High contrast mode
 
 This feature allows users to switch to a high contrast mode, improving visibility for individuals with visual impairments. The mode can be toggled on and off using the button <img src="./svgs/Contrast.svg" style="height:1em;vertical-align:text-bottom;"> in the accessibility menu <img src="./svgs/Accessibility.svg" style="height:1em;vertical-align:text-bottom;">.
+
+The high-contrast mode tries to apply the following changes to the CSS:
+
+- Change text and border colors to black in light-mode and white in dark-mode.
+- Change background colors to white in light-mode and black in dark-mode.
+- Makes all colors twice as intense.
+- In dark-mode only: increases contrast with factor 1.5.
+
+## Example
+
+You can see how the accessibility features work in [this example book](https://teachbooks.io/TU-Delft-Theme-Example/).
