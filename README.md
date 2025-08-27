@@ -39,7 +39,7 @@ sphinx:
 
 ### Accessibility Menu
 
-The accessibility menu provides a centralized location for users to adjust various accessibility settings, including font size, contrast, and more. The icon for this menu is <img src="./svgs/Accessibility.svg" alt="Accessibility Icon" height="1em" style="vertical-align: middle;">.
+The accessibility menu provides a centralized location for users to adjust various accessibility settings, including font size, contrast, and more. The icon for this menu is <img src="./svgs/Accessibility.svg">.
 
 ### Support for dyslexic-friendly fonts
 
