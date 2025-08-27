@@ -12,10 +12,10 @@ msgid "Disable high contrast"
 msgstr "<span dir=\"rtl\">השבת ניגודיות גבוהה</span>"
 
 msgid "Disable"
-msgstr "<span dir=\"rtl\">השבת</span>"
+msgstr "השבת"
 
 msgid "Enable high contrast"
 msgstr "<span dir=\"rtl\">הפעל ניגודיות גבוהה</span>"
 
 msgid "Enable"
-msgstr "<span dir=\"rtl\">הפעל</span>"
+msgstr ">הפעל"
