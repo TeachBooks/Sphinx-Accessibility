@@ -4,7 +4,7 @@
 This page is useful for user type 3, 4 and 5.
 ```
 +++
-{bdg-primary}`Sphinx Extension
+{bdg-primary}`Sphinx Extension`
 ````
 
 # Adding accessibility features
