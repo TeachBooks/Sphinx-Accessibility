@@ -8,8 +8,14 @@ msgstr ""
 "Language: pl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+msgid "Disable high contrast"
+msgstr "Wyłącz wysoki kontrast"
+
 msgid "Disable <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
 msgstr "Wyłącz <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
+
+msgid "Enable high contrast"
+msgstr "Włącz wysoki kontrast"
 
 msgid "Enable <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
 msgstr "Włącz <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"

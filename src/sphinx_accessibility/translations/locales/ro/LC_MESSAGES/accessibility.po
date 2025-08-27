@@ -8,8 +8,14 @@ msgstr ""
 "Language: ro\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+msgid "Disable high contrast"
+msgstr "Dezactivează contrastul ridicat"
+
 msgid "Disable <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
 msgstr "Dezactivează <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
+
+msgid "Enable high contrast"
+msgstr "Activează contrastul ridicat"
 
 msgid "Enable <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
 msgstr "Activează <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"

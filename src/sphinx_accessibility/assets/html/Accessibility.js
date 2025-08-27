@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", () => {
                             <span class="btn__icon-container">
                                 ${ContrastSVG}
                             </span>
-                            <span id="contrastText" class="btn__text-container">Enable high contrast</span>
+                            <span id="contrastText" class="btn__text-container">${enableContrast}</span>
                         </a></li>
                     </ul>`;
 
@@ -99,7 +99,7 @@ function toggleFont() {
     
     // Update button text
     if (isDyslexicEnabled) {
-        fontText.innerHTML = `Disable <span style="font-family: OpenDyslexic">OpenDyslexic</span>`;
+        fontText.innerHTML = disableFont;
     } else {
         fontText.innerHTML = enableFont;
     }
@@ -116,9 +116,9 @@ function toggleContrast() {
 
     // Update button text
     if (isHighContrastEnabled) {
-        contrastText.innerHTML = `Disable high contrast`;
+        contrastText.innerHTML = disableContrast;
     } else {
-        contrastText.innerHTML = `Enable high contrast`;
+        contrastText.innerHTML = enableContrast;
     }
 }
 
@@ -132,7 +132,7 @@ function loadFontPreference() {
         body.classList.add("dyslexic");
         // Update button text if it exists
         if (fontText) {
-            fontText.innerHTML = `Disable <span style="font-family: OpenDyslexic">OpenDyslexic</span>`;
+            fontText.innerHTML = disableFont;
         }
     } else {
         // Handle default case (either "default" or null/undefined)
@@ -154,14 +154,14 @@ function loadContrastPreference() {
         body.classList.add("high-contrast");
         // Update button text if it exists
         if (contrastText) {
-            contrastText.innerHTML = `Disable high contrast`;
+            contrastText.innerHTML = disableContrast;
         }
     } else {
         // Handle default case (either "default" or null/undefined)
         body.classList.remove("high-contrast");
         // Update button text if it exists
         if (contrastText) {
-            contrastText.innerHTML = `Enable high contrast`;
+            contrastText.innerHTML = enableContrast;
         }
     }
 }

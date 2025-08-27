@@ -39,7 +39,10 @@ def set_asset_files(app: Sphinx) -> None:
     """Sets the asset files for the codex extension"""
 
     app.add_js_file(None, body=f"let enableFont = '{translate('Enable <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>')}';")
-    
+    app.add_js_file(None, body=f"let disableFont = '{translate('Disable <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>')}';")
+    app.add_js_file(None, body=f"let enableContrast = '{translate('Enable high contrast')}';")
+    app.add_js_file(None, body=f"let disableContrast = '{translate('Disable high contrast')}';")
+
     app.add_js_file("Accessibility.js")
     app.add_css_file("HighContrast.css")
     app.add_css_file("OpenDyslexic.css")
