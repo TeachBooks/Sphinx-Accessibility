@@ -43,8 +43,8 @@ The accessibility menu provides a centralized location for users to adjust vario
 
 ### Support for dyslexic-friendly fonts
 
-This feature allows users to switch to the dyslexic-friendly font [OpenDyslexic](https://opendyslexic.org/), improving readability for individuals with dyslexia. The font can be toggled on and off using the button in the accessibility menu.
+This feature allows users to switch to the dyslexic-friendly font [OpenDyslexic](https://opendyslexic.org/), improving readability for individuals with dyslexia. The font can be toggled on and off using the button <img src="./svgs/Font.svg" style="height:1em;vertical-align:text-bottom;"> in the accessibility menu <img src="./svgs/Accessibility.svg" style="height:1em;vertical-align:text-bottom;">.
 
 ### High contrast mode
 
-This feature allows users to switch to a high contrast mode, improving visibility for individuals with visual impairments. The mode can be toggled on and off using the button in the accessibility menu.
+This feature allows users to switch to a high contrast mode, improving visibility for individuals with visual impairments. The mode can be toggled on and off using the button <img src="./svgs/Contrast.svg" style="height:1em;vertical-align:text-bottom;"> in the accessibility menu <img src="./svgs/Accessibility.svg" style="height:1em;vertical-align:text-bottom;">.
