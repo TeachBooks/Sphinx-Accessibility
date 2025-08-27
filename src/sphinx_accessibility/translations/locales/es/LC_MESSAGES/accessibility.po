@@ -11,11 +11,11 @@ msgstr ""
 msgid "Disable high contrast"
 msgstr "Deshabilitar alto contraste"
 
-msgid "Disable <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
-msgstr "Deshabilitar <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
+msgid "Disable"
+msgstr "Deshabilitar"
 
 msgid "Enable high contrast"
 msgstr "Habilitar alto contraste"
 
-msgid "Enable <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
-msgstr "Habilitar <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
+msgid "Enable"
+msgstr "Habilitar"

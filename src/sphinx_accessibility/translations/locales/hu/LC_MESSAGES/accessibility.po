@@ -11,11 +11,11 @@ msgstr ""
 msgid "Disable high contrast"
 msgstr "Magas kontraszt letiltása"
 
-msgid "Disable <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
-msgstr "Letiltás <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
+msgid "Disable"
+msgstr "Letiltás"
 
 msgid "Enable high contrast"
 msgstr "Magas kontraszt engedélyezése"
 
-msgid "Enable <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
-msgstr "Engedélyezés <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
+msgid "Enable"
+msgstr "Engedélyezés"

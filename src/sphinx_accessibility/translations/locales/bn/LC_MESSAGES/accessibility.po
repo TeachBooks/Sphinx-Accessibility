@@ -11,11 +11,11 @@ msgstr ""
 msgid "Disable high contrast"
 msgstr "উচ্চ বৈসাদৃশ্য নিষ্ক্রিয় করুন"
 
-msgid "Disable <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
-msgstr "নিষ্ক্রিয় করুন <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
+msgid "Disable"
+msgstr "নিষ্ক্রিয় করুন"
 
 msgid "Enable high contrast"
 msgstr "উচ্চ বৈসাদৃশ্য সক্ষম করুন"
 
-msgid "Enable <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
-msgstr "সক্ষম করুন <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
+msgid "Enable"
+msgstr "সক্ষম করুন"

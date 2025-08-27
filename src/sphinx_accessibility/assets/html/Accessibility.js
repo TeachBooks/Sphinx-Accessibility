@@ -56,7 +56,7 @@ document.addEventListener("DOMContentLoaded", () => {
                             <span class="btn__icon-container">
                                 ${FontSVG}
                             </span>
-                            <span id="fontText" class="btn__text-container">${enableFont}</span>
+                            <span id="fontText" class="btn__text-container">${enableFont} <span style="font-family: OpenDyslexic">OpenDyslexic</span></span>
                         </a></li>
                         <li><a href="#" class="btn btn-sm dropdown-item" data-action="toggleContrast">
                             <span class="btn__icon-container">
@@ -99,9 +99,9 @@ function toggleFont() {
     
     // Update button text
     if (isDyslexicEnabled) {
-        fontText.innerHTML = disableFont;
+        fontText.innerHTML = `${disableFont} <span style="font-family: OpenDyslexic">OpenDyslexic</span>`;
     } else {
-        fontText.innerHTML = enableFont;
+        fontText.innerHTML = `${enableFont} <span style="font-family: OpenDyslexic">OpenDyslexic</span>`;
     }
 }
 
@@ -132,14 +132,14 @@ function loadFontPreference() {
         body.classList.add("dyslexic");
         // Update button text if it exists
         if (fontText) {
-            fontText.innerHTML = disableFont;
+            fontText.innerHTML = `${disableFont} <span style="font-family: OpenDyslexic">OpenDyslexic</span>`;
         }
     } else {
         // Handle default case (either "default" or null/undefined)
         body.classList.remove("dyslexic");
         // Update button text if it exists
         if (fontText) {
-            fontText.innerHTML = enableFont;
+            fontText.innerHTML = `${enableFont} <span style="font-family: OpenDyslexic">OpenDyslexic</span>`;
         }
     }
 }

@@ -11,11 +11,11 @@ msgstr ""
 msgid "Disable high contrast"
 msgstr "고대비 비활성화"
 
-msgid "Disable <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
-msgstr "비활성화 <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
+msgid "Disable"
+msgstr "비활성화"
 
 msgid "Enable high contrast"
 msgstr "고대비 활성화"
 
-msgid "Enable <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
-msgstr "활성화 <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
+msgid "Enable"
+msgstr "활성화"

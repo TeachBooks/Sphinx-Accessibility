@@ -11,11 +11,11 @@ msgstr ""
 msgid "Disable high contrast"
 msgstr "ปิดใช้งานความคมชัดสูง"
 
-msgid "Disable <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
-msgstr "ปิดใช้งาน <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
+msgid "Disable"
+msgstr "ปิดใช้งาน"
 
 msgid "Enable high contrast"
 msgstr "เปิดใช้งานความคมชัดสูง"
 
-msgid "Enable <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
-msgstr "เปิดใช้งาน <span style=\"font-family: OpenDyslexic\">OpenDyslexic</span>"
+msgid "Enable"
+msgstr "เปิดใช้งาน"
