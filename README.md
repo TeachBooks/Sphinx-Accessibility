@@ -39,15 +39,15 @@ sphinx:
 
 ### Accessibility Menu
 
-The accessibility menu provides a centralized location for users to adjust various accessibility settings, including font size, contrast, and more. The icon for this menu is <img src="./svgs/Accessibility.svg" style="height:1em;vertical-align:text-bottom;">.
+The accessibility menu provides a centralized location for users to adjust various accessibility settings, including font size, contrast, and more. The icon for this menu is <img src="svgs/Accessibility.svg" style="height:1em;vertical-align:text-bottom;">.
 
 ### Support for dyslexic-friendly fonts
 
-This feature allows users to switch to the dyslexic-friendly font [OpenDyslexic](https://opendyslexic.org/), improving readability for individuals with dyslexia. The font can be toggled on and off using the button <img src="./svgs/Font.svg" style="height:1em;vertical-align:text-bottom;"> in the accessibility menu <img src="./svgs/Accessibility.svg" style="height:1em;vertical-align:text-bottom;">.
+This feature allows users to switch to the dyslexic-friendly font [OpenDyslexic](https://opendyslexic.org/), improving readability for individuals with dyslexia. The font can be toggled on and off using the button <img src="svgs/Font.svg" style="height:1em;vertical-align:text-bottom;"> in the accessibility menu <img src="svgs/Accessibility.svg" style="height:1em;vertical-align:text-bottom;">.
 
 ### High contrast mode
 
-This feature allows users to switch to a high contrast mode, improving visibility for individuals with visual impairments. The mode can be toggled on and off using the button <img src="./svgs/Contrast.svg" style="height:1em;vertical-align:text-bottom;"> in the accessibility menu <img src="./svgs/Accessibility.svg" style="height:1em;vertical-align:text-bottom;">.
+This feature allows users to switch to a high contrast mode, improving visibility for individuals with visual impairments. The mode can be toggled on and off using the button <img src="svgs/Contrast.svg" style="height:1em;vertical-align:text-bottom;"> in the accessibility menu <img src="svgs/Accessibility.svg" style="height:1em;vertical-align:text-bottom;">.
 
 The high-contrast mode tries to apply the following changes to the CSS:
 
