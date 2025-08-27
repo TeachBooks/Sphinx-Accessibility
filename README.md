@@ -1,3 +1,11 @@
+```{admonition} User types
+:class: tip
+This page is useful for user type 3, 4 and 5.
+```
++++
+{bdg-primary}`Sphinx Extension`
+````
+
 # Adding accessibility to Sphinx
 
 Sphinx extension that provides accessibility features.
